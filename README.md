@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Below is a bit more about me:
 
 ## 🚀 About Me
+This is my first repository
+Author - Abhishek Mudgal
 
 - 💻 I enjoy working on full-stack development projects.
 - 🌱 Currently learning advanced JavaScript frameworks, cloud computing, and DevOps practices.
